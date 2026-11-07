@@ -1,0 +1,5 @@
+bin/*
+!bin/.gitkeep
+*.class
+.vscode/
+.DS_Store
